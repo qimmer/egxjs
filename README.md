@@ -1,2 +1,2 @@
-# jecs
-Javascript Entity Component System
+# egxjs
+
